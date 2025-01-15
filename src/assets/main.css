@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  min-width: 50%;
+}
+
+body{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(45,186,130,1) 0%, rgba(185,53,19,1) 59%);
+  color:#c0aaaa;
+  margin: auto 40%;
+  justify-content: center;
+}
